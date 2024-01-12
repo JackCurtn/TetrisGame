@@ -10,8 +10,8 @@ assignees: ''
 ### **User Story: <title>**
 
 ### **Acceptance Criteria:**
-- [] Criterion 1
-- [] Criterion 2
-- [] Criterion 3
+- [ ] Criterion 1
+- [ ] Criterion 2
+- [ ] Criterion 3
 
 ### **Definition of done:**
